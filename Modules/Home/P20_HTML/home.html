@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LoL Stats Explorer</title>
+    <link rel="stylesheet" href="../P30_CSS/home_style.css">
+</head>
+<body>
+    <header>
+        <button onclick="window.location.href='home.html';">Home</button>
+        <button style="float: right;">Contact</button>
+    </header>
+    <div class="content-wrapper">
+        <div id="searchBoxContainer">
+            <input type="text" id="searchBox" placeholder="Search...">
+            <button id="searchButton" onclick="search()">
+                <img src="../P50_Images/purple_mag.png" alt="Search">
+            </button>
+            <div id="recommendation" class="recommendation hidden"></div>
+        </div>
+    </div>
+    <footer>
+    </footer>
+    <script src="../P40_JS/home_script.js"></script>
+</body>
+</html>
