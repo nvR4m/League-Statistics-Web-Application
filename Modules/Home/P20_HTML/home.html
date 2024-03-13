@@ -3,17 +3,35 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LoL Stats Explorer</title>
+    <title>Rift.GG</title>
     <link rel="stylesheet" href="../P30_CSS/home_style.css">
 </head>
 <body>
     <header>
         <button onclick="window.location.href='home.html';">Home</button>
-        <button style="float: right;">Contact</button>
+        <button onclick="window.location.href='../../Login/login.html';">Log In</button>
     </header>
+    <div class="sidebar">
+        <div class="sidebar-icons">
+            <img src="../P50_Images/character-design.png" alt="Icon" class="sidebar-icon">
+            <img src="../P50_Images/organization.png" alt="Icon" class="sidebar-icon">
+            <img src="../P50_Images/sword.png" alt="Icon" class="sidebar-icon">
+            <img src="../P50_Images/user.png" alt="Icon" class="sidebar-icon">
+            <img src="../P50_Images/contact-us.png" alt="Icon" class="sidebar-icon">
+            
+        </div>
+        <div class="sidebar-buttons">
+            <button class="sidebar-button">Champions</button>
+            <button class="sidebar-button">Tier List</button>
+            <button class="sidebar-button">Items</button>
+            <button class="sidebar-button">Profile</button>
+            <button class="sidebar-button">Contact Us</button>
+        </div>
+    </div>
     <div class="content-wrapper">
         <div id="searchBoxContainer">
             <input type="text" id="searchBox" placeholder="Search...">
+            <div id="autocompleteSuggestion" class="autocomplete-suggestion"></div>
             <button id="searchButton" onclick="search()">
                 <img src="../P50_Images/purple_mag.png" alt="Search">
             </button>
@@ -21,6 +39,10 @@
         </div>
     </div>
     <footer>
+        <div>© 2024 Rift.GG</div>
+        <div>
+            <a href="#">Privacy Policy</a> | <a href="#">Terms of Service</a> | <a href="#">Contact Us</a>
+        </div>
     </footer>
     <script src="../P40_JS/home_script.js"></script>
 </body>
