@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login | Register</title>
+    <link rel="stylesheet" href="login_style.css">
+</head>
+<body>
+
+<header>
+    <button class="header-button" onclick="window.location.href='../Home/P20_HTML/home.html';">Home</button>
+</header>
+
+<div class="login-container" id="loginContainer">
+    <h2>Log In</h2>
+    <form id="loginForm">
+        <div class="form-group">
+            <label for="username">Username</label>
+            <input type="text" id="username" name="username" required>
+        </div>
+        <div class="form-group">
+            <label for="password">Password</label>
+            <input type="password" id="password" name="password" required>
+        </div>
+        <button type="submit" class="login-button">Log In</button>
+    </form>
+    <div class="register-prompt">
+        Don't have an account? <span id="registerLink" style="color:blue; cursor:pointer;">Register</span>
+    </div>
+</div>
+
+<div class="login-container hidden" id="registerContainer">
+    <h2>Register</h2>
+    <form id="registerForm">
+        <div class="form-group">
+            <label for="registerUsername">Username</label>
+            <input type="text" id="registerUsername" name="registerUsername" required>
+        </div>
+        <div class="form-group">
+            <label for="registerPassword">Password</label>
+            <input type="password" id="registerPassword" name="registerPassword" required>
+        </div>
+        <div class="form-group">
+            <label for="registerConfirmPassword">Confirm Password</label>
+            <input type="password" id="registerConfirmPassword" name="registerConfirmPassword" required>
+        </div>
+        <div class="form-group">
+            <label for="registerEmail">Email</label>
+            <input type="email" id="registerEmail" name="registerEmail" required>
+        </div>
+        <button type="submit" class="login-button">Register</button>
+    </form>
+    <div class="login-prompt">
+        Already have an account? <span id="loginLink" style="color:blue; cursor:pointer;">Login</span>
+    </div>
+</div>
+
+<div class="sidebar">
+    <div class="sidebar-icons">
+        <img src="../Home/P50_Images/character-design.png" alt="Icon" class="sidebar-icon">
+        <img src="../Home/P50_Images/organization.png" alt="Icon" class="sidebar-icon">
+        <img src="../Home/P50_Images/sword.png" alt="Icon" class="sidebar-icon">
+        <img src="../Home/P50_Images/user.png" alt="Icon" class="sidebar-icon">
+        <img src="../Home/P50_Images/contact-us.png" alt="Icon" class="sidebar-icon">
+    </div>
+    <div class="sidebar-buttons">
+        <button class="sidebar-button">Champions</button>
+        <button class="sidebar-button">Tier List</button>
+        <button class="sidebar-button">Items</button>
+        <button class="sidebar-button">Profile</button>
+        <button class="sidebar-button">Contact Us</button>
+    </div>
+</div>
+
+<footer>
+    <div>© 2024 Rift.GG</div>
+    <div>
+        <a href="#">Privacy Policy</a> | <a href="#">Terms of Service</a> | <a href="#">Contact Us</a>
+    </div>
+</footer>
+
+<script src="login_script.js"></script>
+</body>
+</html>
