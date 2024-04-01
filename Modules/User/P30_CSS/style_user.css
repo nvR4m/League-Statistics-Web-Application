@@ -51,7 +51,7 @@ header button:last-child {
 }
 
 .content-wrapper {
-    background-image: url('../P50_Images/tf_bg.jpg'); 
+    background-image: url('../P50_Images/kata_bg.jpg'); 
     background-size: cover; 
     background-position: center top; 
     min-height: 100vh; 
@@ -62,110 +62,9 @@ header button:last-child {
     box-sizing: border-box;
     position: relative; 
     z-index: 1; 
-}
-
-#searchBoxContainer {
-    position: relative;
-    top: -10cm; 
-}
-
-#searchBox {
-    padding: 10px 140px 10px 20px; 
-    font-size: 16px;
-    border: 2px solid #2c0c1b;
-    border-width: 4px;
-    border-radius: 20px;
-    outline: none;
-    flex-grow: 1;
-    text-align: left; 
-    box-sizing: border-box;
-    z-index: 2;
-}
-
-#searchButton {
-    position: absolute;
-    top: 53%; 
-    right: 13px; 
-    transform: translateY(-50%); 
-    background-color: transparent;
-    border: none;
-    padding: 0;
-    cursor: pointer;
-}
-
-#searchButton img {
-    width: 24px; 
-    height: 24px;
-}
-
-.recommendation {
-    border: 2px solid #2c0c1b; 
-    border-radius: 20px; 
-    position: absolute;
-    z-index: 1000;
-    width: calc(100% - 4px); 
-    background-color: white;
-    box-shadow: 0 4px 6px rgba(0,0,0,0.1); 
-    margin-top: 2px; 
-    overflow: hidden;
-}
-
-.recommendation div {
-    padding: 10px;
-    cursor: pointer;
-    transition: background-color 0.3s;
-}
-
-.recommendation div:hover {
-    background-color: #3d1c25; 
     color: white;
-    padding: 8px 12px; 
 }
 
-.recommendation div:first-child {
-    border-top-left-radius: 14px;
-    border-top-right-radius: 14px;
-}
-
-.recommendation div:last-child {
-    border-bottom-left-radius: 14px;
-    border-bottom-right-radius: 14px;
-}
-
-.recommendation div:not(:last-child) {
-    border-bottom: none; 
-}
-
-.hidden {
-    display: none; 
-}
-
-.autocomplete-suggestion {
-    padding: 10px 140px 10px 20px; 
-    position: absolute;
-    top: 74%; 
-    left: 1.2%; 
-    transform: translateY(-50%); 
-    font-size: 16px; 
-    line-height: normal; 
-    height: 40px; 
-    color: transparent; 
-    pointer-events: none; 
-    border: none; 
-    background-color: transparent; 
-    overflow: hidden; 
-    white-space: nowrap; 
-    z-index: 1;
-    
-}
-.autocomplete-suggestion .user-input {
-    visibility: hidden;
-}
-
-.autocomplete-suggestion .suggestion-part {
-
-    color: #ccc;
-}
 
 footer {
     width: 100%;
@@ -267,4 +166,3 @@ footer a:hover {
     color: #fafafa;
     border: solid 2px #ab2828;
 }
-

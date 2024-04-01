@@ -4,7 +4,13 @@ body {
     padding: 0;
     box-sizing: border-box;
     background-color: rgb(44,12,27); 
-    overflow: hidden; 
+    overflow-x: hidden; /* Prevent horizontal scrolling */
+    background-image: url('../P50_Images/sivir.jpg'); /* Path to your image */
+    background-size: cover; /* Cover the entire page */
+    background-position: center; /* Center the background image */
+    overflow-x: hidden;
+    background-attachment: fixed;
+    
 }
 
 header {
@@ -51,120 +57,54 @@ header button:last-child {
 }
 
 .content-wrapper {
-    background-image: url('../P50_Images/tf_bg.jpg'); 
-    background-size: cover; 
-    background-position: center top; 
-    min-height: 100vh; 
-    display: flex; 
-    justify-content: center; 
-    align-items: center; 
-    padding-top: 60px; 
-    box-sizing: border-box;
-    position: relative; 
-    z-index: 1; 
-}
-
-#searchBoxContainer {
-    position: relative;
-    top: -10cm; 
-}
-
-#searchBox {
-    padding: 10px 140px 10px 20px; 
-    font-size: 16px;
-    border: 2px solid #2c0c1b;
-    border-width: 4px;
-    border-radius: 20px;
-    outline: none;
-    flex-grow: 1;
-    text-align: left; 
-    box-sizing: border-box;
-    z-index: 2;
-}
-
-#searchButton {
-    position: absolute;
-    top: 53%; 
-    right: 13px; 
-    transform: translateY(-50%); 
-    background-color: transparent;
-    border: none;
-    padding: 0;
-    cursor: pointer;
-}
-
-#searchButton img {
-    width: 24px; 
-    height: 24px;
-}
-
-.recommendation {
-    border: 2px solid #2c0c1b; 
-    border-radius: 20px; 
-    position: absolute;
-    z-index: 1000;
-    width: calc(100% - 4px); 
-    background-color: white;
-    box-shadow: 0 4px 6px rgba(0,0,0,0.1); 
-    margin-top: 2px; 
-    overflow: hidden;
-}
-
-.recommendation div {
-    padding: 10px;
-    cursor: pointer;
-    transition: background-color 0.3s;
-}
-
-.recommendation div:hover {
-    background-color: #3d1c25; 
+    padding: 20px;
+    text-align: center;
     color: white;
-    padding: 8px 12px; 
 }
 
-.recommendation div:first-child {
-    border-top-left-radius: 14px;
-    border-top-right-radius: 14px;
+.item-category h2 {
+    margin-bottom: 15px;
 }
 
-.recommendation div:last-child {
-    border-bottom-left-radius: 14px;
-    border-bottom-right-radius: 14px;
+.item-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    margin-bottom: 40px;
 }
 
-.recommendation div:not(:last-child) {
-    border-bottom: none; 
+.item-grid div {
+    background-color: #333; /* Adjust the background color as needed */
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    border: none; /* Ensure there's no border */
+    box-shadow: none; /* Removes box-shadow if there was any */
 }
 
-.hidden {
-    display: none; 
+.item-grid div img {
+    width: auto; /* Adjust width as needed, could be 100% or a fixed width in pixels */
+    height: auto; /* Maintains the aspect ratio of the image */
+    display: block; /* Ensures the image is a block-level element */
+    margin: 0 auto; /* Center the image horizontally */
+    border: 0; /* Ensures there is no border */
+    outline: 0; /* Removes outline if there was any */
+    box-shadow: none; /* Ensures there is no shadow */
+    padding: 0; /* Remove padding if there was any */
 }
 
-.autocomplete-suggestion {
-    padding: 10px 140px 10px 20px; 
-    position: absolute;
-    top: 74%; 
-    left: 1.2%; 
-    transform: translateY(-50%); 
-    font-size: 16px; 
-    line-height: normal; 
-    height: 40px; 
-    color: transparent; 
-    pointer-events: none; 
-    border: none; 
-    background-color: transparent; 
-    overflow: hidden; 
-    white-space: nowrap; 
-    z-index: 1;
-    
-}
-.autocomplete-suggestion .user-input {
-    visibility: hidden;
+.item-grid div p {
+    color: #fff; /* Adjust text color as needed */
+    margin-top: 5px; /* Provides a little space between the image and the text */
+    border:none
 }
 
-.autocomplete-suggestion .suggestion-part {
-
-    color: #ccc;
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: none;
 }
 
 footer {
@@ -187,6 +127,7 @@ footer a:hover {
     color: #FFD700; 
     text-decoration: underline; 
 }
+
 
 .sidebar {
     display: flex; 
@@ -266,5 +207,22 @@ footer a:hover {
     background: linear-gradient(202deg, #3d1c25 14%, #a11826 72%);
     color: #fafafa;
     border: solid 2px #ab2828;
+}
+
+.item {
+    background-color: #333; /* Or any other preferred background color */
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    border: none; /* This will remove the border if it was previously set */
+    box-shadow: none; /* Removes box-shadow if there was any */
+}
+
+.item img {
+    max-width: 100%; /* Makes the image responsive */
+    height: auto; /* Maintains aspect ratio */
+    display: block; /* Stops images from being inline by default */
+    margin: 0 auto; /* Additional centering for the image */
+    border: none; /* Ensures there is no border */
 }
 

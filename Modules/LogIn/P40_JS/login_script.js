@@ -55,3 +55,19 @@ function validatePassword(password) {
     const passwordRegex = /^(?=.*[A-Z])(?=.*[0-9])(?=.*[^A-Za-z0-9]).{8,}$/;
     return passwordRegex.test(password);
 }
+
+document.getElementById('registerForm').addEventListener('submit', function(e) {
+    e.preventDefault();
+    const username = document.getElementById('registerUsername').value;
+    const password = document.getElementById('registerPassword').value;
+    const confirmPassword = document.getElementById('confirmPassword').value;
+    const email = document.getElementById('registerEmail').value;
+    const agreeTerms = document.getElementById('agreeTerms').checked; // Checking if the checkbox is checked
+
+    if (!agreeTerms) {
+        alert('You must agree to the Privacy Policy and Terms of Service to register.');
+        return;
+    }
+    
+    // Existing validation and submission logic...
+});

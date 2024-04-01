@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-image: url('pyke.jpg'); /* Set background image */
+    background-image: url('../P50_Images/pyke.jpg'); /* Set background image */
     background-color: rgba(44,12,27, 0.7);
     background-size: cover; /* Ensure the image covers the entire background */
     background-position: center; /* Center the image */
@@ -228,3 +228,48 @@ header button:last-child {
     color: #fafafa;
     border: solid 2px #ab2828;
 }
+
+/* Hide the default checkbox */
+.form-group input[type="checkbox"] {
+    display: none;
+}
+
+/* Custom checkbox styling */
+.form-group label[for="agreeTerms"] {
+    position: relative;
+    padding-left: 35px;
+    cursor: pointer;
+    color: #000;
+    display: inline-block;
+}
+
+/* Custom box */
+.form-group label[for="agreeTerms"]::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 20px;
+    height: 20px;
+    background: white;
+    border: 2px solid #3d1c25;
+    border-radius: 4px;
+}
+
+/* Checkmark style */
+.form-group input[type="checkbox"]:checked + label[for="agreeTerms"]::after {
+    content: '';
+    position: absolute;
+    left: 6px;
+    top: 2px;
+    width: 8px;
+    height: 16px;
+    border: solid #a11826;
+    border-width: 0 3px 3px 0;
+    transform: rotate(45deg);
+}
+
+.login-button {
+    margin-top: 10px; /* Ensure there's space above the button */
+}
+
