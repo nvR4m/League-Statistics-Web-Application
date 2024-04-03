@@ -1,0 +1,228 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(44,12,27); 
+    overflow-x: hidden; /* Prevent horizontal scrolling */
+    background-image: url('../P50_Images/sivir.jpg'); /* Path to your image */
+    background-size: cover; /* Cover the entire page */
+    background-position: center; /* Center the background image */
+    overflow-x: hidden;
+    background-attachment: fixed;
+    
+}
+
+header {
+    position: fixed;
+    width: 100%;
+    background-color: rgba(44,12,27, 0.7); 
+    transition: background-color 0.3s ease; 
+    z-index: 1000; 
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+}
+
+header button {
+    font-family: Roboto, sans-serif;
+    font-weight: 0;
+    font-size: 14px;
+    color: #fff;
+    background: linear-gradient(202deg, #3d1c25 14%, #a11826 72%);
+    padding: 10px 30px;
+    border: solid #5f111c 2px;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px;
+    border-radius: 50px;
+    transition : 585ms;
+    transform: translateY(0);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    cursor: pointer;
+}
+
+header button:hover {
+    transition : 585ms;
+    padding: 10px 34px;
+    transform : translateY(-0px);
+    background: linear-gradient(202deg, #3d1c25 14%, #a11826 72%);
+    color: #fafafa;
+    border: solid 2px #ab2828;
+}
+
+header button:last-child {
+    margin-right: 50px; 
+}
+
+.content-wrapper {
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+.item-category h2 {
+    margin-bottom: 15px;
+}
+
+.item-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    margin-bottom: 40px;
+}
+
+.item-grid div {
+    background-color: #333; /* Adjust the background color as needed */
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    border: none; /* Ensure there's no border */
+    box-shadow: none; /* Removes box-shadow if there was any */
+}
+
+.item-grid div img {
+    width: auto; /* Adjust width as needed, could be 100% or a fixed width in pixels */
+    height: auto; /* Maintains the aspect ratio of the image */
+    display: block; /* Ensures the image is a block-level element */
+    margin: 0 auto; /* Center the image horizontally */
+    border: 0; /* Ensures there is no border */
+    outline: 0; /* Removes outline if there was any */
+    box-shadow: none; /* Ensures there is no shadow */
+    padding: 0; /* Remove padding if there was any */
+}
+
+.item-grid div p {
+    color: #fff; /* Adjust text color as needed */
+    margin-top: 5px; /* Provides a little space between the image and the text */
+    border:none
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: none;
+}
+
+footer {
+    width: 100%;
+    background-color: rgba(44,12,27, 0.9); 
+    padding: 10px 20px;
+    color: #fff; 
+    text-align: center;
+    position: fixed; 
+    bottom: 0; 
+    left: 0; 
+    z-index: 10; 
+}
+footer a {
+    color: gold; 
+    text-decoration: none; 
+}
+
+footer a:hover {
+    color: #FFD700; 
+    text-decoration: underline; 
+}
+
+
+.sidebar {
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    justify-content: center; 
+    position: fixed;
+    left: 0;
+    top: 60px; 
+    width: 60px; 
+    bottom: 55px; 
+    background: rgba(112,128,144, 0.7);
+    transition: width 0.5s ease; 
+    z-index: 5;
+    overflow: hidden;
+}
+
+.sidebar:hover {
+    width: 170px; 
+}
+
+.sidebar ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.sidebar-buttons {
+    display: none; 
+    position: absolute; 
+    top: 50px; 
+    left: 10px; 
+}
+
+.sidebar-icons{
+    position: absolute; 
+    top: 50px; 
+    left: 10px; 
+    margin-top: 10px;
+}
+
+.sidebar-icon{
+    width: 80%; 
+    text-align: center; 
+}
+
+.sidebar:hover .sidebar-buttons {
+    display: block; 
+}
+.sidebar:hover .sidebar-icons {
+    display: none;
+}
+
+.sidebar-button {
+    font-family: Roboto, sans-serif;
+    font-weight: 0;
+    font-size: 14px;
+    color: #fff;
+    background: linear-gradient(202deg, #3d1c25 14%, #a11826 72%);
+    padding: 10px 30px;
+    border: solid #5f111c 2px;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px;
+    border-radius: 50px;
+    transition : 585ms;
+    transform: translateY(0);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    cursor: pointer;
+    margin-top: 10px; 
+}
+
+.sidebar-button:hover {
+    transition : 585ms;
+    padding: 10px 34px;
+    transform : translateY(-0px);
+    background: linear-gradient(202deg, #3d1c25 14%, #a11826 72%);
+    color: #fafafa;
+    border: solid 2px #ab2828;
+}
+
+.item {
+    background-color: #333; /* Or any other preferred background color */
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    border: none; /* This will remove the border if it was previously set */
+    box-shadow: none; /* Removes box-shadow if there was any */
+}
+
+.item img {
+    max-width: 100%; /* Makes the image responsive */
+    height: auto; /* Maintains aspect ratio */
+    display: block; /* Stops images from being inline by default */
+    margin: 0 auto; /* Additional centering for the image */
+    border: none; /* Ensures there is no border */
+}
+
