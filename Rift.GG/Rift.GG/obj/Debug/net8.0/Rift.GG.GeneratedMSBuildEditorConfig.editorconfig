@@ -1,0 +1,195 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Rift.GG
+build_property.RootNamespace = Rift.GG
+build_property.ProjectDir = C:\Users\Andrei\Desktop\Rift.GG 2\Rift.GG\Rift.GG\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Andrei\Desktop\Rift.GG 2\Rift.GG\Rift.GG
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Andrei/Desktop/Rift.GG 2/Rift.GG/Rift.GG/Views/Champions/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhbXBpb25zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andrei/Desktop/Rift.GG 2/Rift.GG/Rift.GG/Views/Champions/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhbXBpb25zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andrei/Desktop/Rift.GG 2/Rift.GG/Rift.GG/Views/Champions/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhbXBpb25zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andrei/Desktop/Rift.GG 2/Rift.GG/Rift.GG/Views/Champions/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhbXBpb25zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andrei/Desktop/Rift.GG 2/Rift.GG/Rift.GG/Views/Champions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhbXBpb25zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andrei/Desktop/Rift.GG 2/Rift.GG/Rift.GG/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andrei/Desktop/Rift.GG 2/Rift.GG/Rift.GG/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andrei/Desktop/Rift.GG 2/Rift.GG/Rift.GG/Views/Items/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andrei/Desktop/Rift.GG 2/Rift.GG/Rift.GG/Views/Items/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andrei/Desktop/Rift.GG 2/Rift.GG/Rift.GG/Views/Items/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andrei/Desktop/Rift.GG 2/Rift.GG/Rift.GG/Views/Items/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andrei/Desktop/Rift.GG 2/Rift.GG/Rift.GG/Views/Items/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andrei/Desktop/Rift.GG 2/Rift.GG/Rift.GG/Views/Matches/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0Y2hlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andrei/Desktop/Rift.GG 2/Rift.GG/Rift.GG/Views/Matches/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0Y2hlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andrei/Desktop/Rift.GG 2/Rift.GG/Rift.GG/Views/Matches/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0Y2hlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andrei/Desktop/Rift.GG 2/Rift.GG/Rift.GG/Views/Matches/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0Y2hlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andrei/Desktop/Rift.GG 2/Rift.GG/Rift.GG/Views/Matches/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0Y2hlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andrei/Desktop/Rift.GG 2/Rift.GG/Rift.GG/Views/Messages/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andrei/Desktop/Rift.GG 2/Rift.GG/Rift.GG/Views/Messages/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andrei/Desktop/Rift.GG 2/Rift.GG/Rift.GG/Views/Messages/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andrei/Desktop/Rift.GG 2/Rift.GG/Rift.GG/Views/Messages/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andrei/Desktop/Rift.GG 2/Rift.GG/Rift.GG/Views/Messages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andrei/Desktop/Rift.GG 2/Rift.GG/Rift.GG/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andrei/Desktop/Rift.GG 2/Rift.GG/Rift.GG/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andrei/Desktop/Rift.GG 2/Rift.GG/Rift.GG/Views/UserMatches/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlck1hdGNoZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andrei/Desktop/Rift.GG 2/Rift.GG/Rift.GG/Views/UserMatches/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlck1hdGNoZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andrei/Desktop/Rift.GG 2/Rift.GG/Rift.GG/Views/UserMatches/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlck1hdGNoZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andrei/Desktop/Rift.GG 2/Rift.GG/Rift.GG/Views/UserMatches/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlck1hdGNoZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andrei/Desktop/Rift.GG 2/Rift.GG/Rift.GG/Views/UserMatches/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlck1hdGNoZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andrei/Desktop/Rift.GG 2/Rift.GG/Rift.GG/Views/UserStats/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclN0YXRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andrei/Desktop/Rift.GG 2/Rift.GG/Rift.GG/Views/UserStats/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclN0YXRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andrei/Desktop/Rift.GG 2/Rift.GG/Rift.GG/Views/UserStats/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclN0YXRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andrei/Desktop/Rift.GG 2/Rift.GG/Rift.GG/Views/UserStats/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclN0YXRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andrei/Desktop/Rift.GG 2/Rift.GG/Rift.GG/Views/UserStats/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclN0YXRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andrei/Desktop/Rift.GG 2/Rift.GG/Rift.GG/Views/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andrei/Desktop/Rift.GG 2/Rift.GG/Rift.GG/Views/Users/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andrei/Desktop/Rift.GG 2/Rift.GG/Rift.GG/Views/Users/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andrei/Desktop/Rift.GG 2/Rift.GG/Rift.GG/Views/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andrei/Desktop/Rift.GG 2/Rift.GG/Rift.GG/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andrei/Desktop/Rift.GG 2/Rift.GG/Rift.GG/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andrei/Desktop/Rift.GG 2/Rift.GG/Rift.GG/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Andrei/Desktop/Rift.GG 2/Rift.GG/Rift.GG/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-a6d8cu6hrl
