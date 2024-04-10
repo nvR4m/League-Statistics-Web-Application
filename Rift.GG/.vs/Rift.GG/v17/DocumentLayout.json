@@ -1,0 +1,473 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|c:\\users\\andrei\\desktop\\rift.gg 2\\rift.gg\\rift.gg\\rift.gg.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|solutionrelative:rift.gg\\rift.gg.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|c:\\users\\andrei\\desktop\\rift.gg 2\\rift.gg\\rift.gg\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|solutionrelative:rift.gg\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|c:\\users\\andrei\\desktop\\rift.gg 2\\rift.gg\\rift.gg\\data\\myappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|solutionrelative:rift.gg\\data\\myappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|c:\\users\\andrei\\desktop\\rift.gg 2\\rift.gg\\rift.gg\\models\\userstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|solutionrelative:rift.gg\\models\\userstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|c:\\users\\andrei\\desktop\\rift.gg 2\\rift.gg\\rift.gg\\models\\usermatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|solutionrelative:rift.gg\\models\\usermatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|c:\\users\\andrei\\desktop\\rift.gg 2\\rift.gg\\rift.gg\\models\\champion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|solutionrelative:rift.gg\\models\\champion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|c:\\users\\andrei\\desktop\\rift.gg 2\\rift.gg\\rift.gg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|solutionrelative:rift.gg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|c:\\users\\andrei\\desktop\\rift.gg 2\\rift.gg\\rift.gg\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|solutionrelative:rift.gg\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|c:\\users\\andrei\\desktop\\rift.gg 2\\rift.gg\\rift.gg\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|solutionrelative:rift.gg\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|c:\\users\\andrei\\desktop\\rift.gg 2\\rift.gg\\rift.gg\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|solutionrelative:rift.gg\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|c:\\users\\andrei\\desktop\\rift.gg 2\\rift.gg\\rift.gg\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|solutionrelative:rift.gg\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|c:\\users\\andrei\\desktop\\rift.gg 2\\rift.gg\\rift.gg\\models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|solutionrelative:rift.gg\\models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|c:\\users\\andrei\\desktop\\rift.gg 2\\rift.gg\\rift.gg\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|solutionrelative:rift.gg\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|c:\\users\\andrei\\desktop\\rift.gg 2\\rift.gg\\rift.gg\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|solutionrelative:rift.gg\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|c:\\users\\andrei\\desktop\\rift.gg 2\\rift.gg\\rift.gg\\controllers\\usermatchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|solutionrelative:rift.gg\\controllers\\usermatchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|c:\\users\\andrei\\desktop\\rift.gg 2\\rift.gg\\rift.gg\\controllers\\userstatscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|solutionrelative:rift.gg\\controllers\\userstatscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|c:\\users\\andrei\\desktop\\rift.gg 2\\rift.gg\\rift.gg\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|solutionrelative:rift.gg\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|c:\\users\\andrei\\desktop\\rift.gg 2\\rift.gg\\rift.gg\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|solutionrelative:rift.gg\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|c:\\users\\andrei\\desktop\\rift.gg 2\\rift.gg\\rift.gg\\controllers\\championscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|solutionrelative:rift.gg\\controllers\\championscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|c:\\users\\andrei\\desktop\\rift.gg 2\\rift.gg\\rift.gg\\controllers\\matchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|solutionrelative:rift.gg\\controllers\\matchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|c:\\users\\andrei\\desktop\\rift.gg 2\\rift.gg\\rift.gg\\wwwroot\\sitelocalcp3\\modules\\contact\\p20_html\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|solutionrelative:rift.gg\\wwwroot\\sitelocalcp3\\modules\\contact\\p20_html\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|c:\\users\\andrei\\desktop\\rift.gg 2\\rift.gg\\rift.gg\\migrations\\myappcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|solutionrelative:rift.gg\\migrations\\myappcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|c:\\users\\andrei\\desktop\\rift.gg 2\\rift.gg\\rift.gg\\migrations\\20240401131121_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|solutionrelative:rift.gg\\migrations\\20240401131121_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|c:\\users\\andrei\\desktop\\rift.gg 2\\rift.gg\\rift.gg\\rift.gg.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|solutionrelative:rift.gg\\rift.gg.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|c:\\users\\andrei\\desktop\\rift.gg 2\\rift.gg\\rift.gg\\migrations\\20240401145859_updatechampionmatchrelationship3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|solutionrelative:rift.gg\\migrations\\20240401145859_updatechampionmatchrelationship3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|c:\\users\\andrei\\desktop\\rift.gg 2\\rift.gg\\rift.gg\\migrations\\20240401142018_updatechampionmatchrelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|solutionrelative:rift.gg\\migrations\\20240401142018_updatechampionmatchrelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|c:\\users\\andrei\\desktop\\rift.gg 2\\rift.gg\\rift.gg\\migrations\\20240401142520_updatechampionmatchrelationship2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|solutionrelative:rift.gg\\migrations\\20240401142520_updatechampionmatchrelationship2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|c:\\users\\andrei\\desktop\\rift.gg 2\\rift.gg\\rift.gg\\migrations\\20240401131121_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C2007B-9433-43BF-88EA-2A0E9B1D6F31}|Rift.GG\\Rift.GG.csproj|solutionrelative:rift.gg\\migrations\\20240401131121_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Rift.GG\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Rift.GG\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T14:05:53.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\appsettings.json",
+              "RelativeDocumentMoniker": "Rift.GG\\appsettings.json",
+              "ToolTip": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\appsettings.json",
+              "RelativeToolTip": "Rift.GG\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-01T13:00:31.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\Program.cs",
+              "RelativeDocumentMoniker": "Rift.GG\\Program.cs",
+              "ToolTip": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\Program.cs",
+              "RelativeToolTip": "Rift.GG\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T13:00:58.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Rift.GG\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Rift.GG\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAcwFIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T14:55:42.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Match.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\Models\\Match.cs",
+              "RelativeDocumentMoniker": "Rift.GG\\Models\\Match.cs",
+              "ToolTip": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\Models\\Match.cs",
+              "RelativeToolTip": "Rift.GG\\Models\\Match.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T12:57:20.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserStats.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\Models\\UserStats.cs",
+              "RelativeDocumentMoniker": "Rift.GG\\Models\\UserStats.cs",
+              "ToolTip": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\Models\\UserStats.cs",
+              "RelativeToolTip": "Rift.GG\\Models\\UserStats.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T12:57:43.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "Rift.GG\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\Models\\Item.cs",
+              "RelativeToolTip": "Rift.GG\\Models\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T12:57:00.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Rift.GG\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\Models\\User.cs",
+              "RelativeToolTip": "Rift.GG\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T12:48:22.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserMatch.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\Models\\UserMatch.cs",
+              "RelativeDocumentMoniker": "Rift.GG\\Models\\UserMatch.cs",
+              "ToolTip": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\Models\\UserMatch.cs",
+              "RelativeToolTip": "Rift.GG\\Models\\UserMatch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T14:49:56.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Champion.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\Models\\Champion.cs",
+              "RelativeDocumentMoniker": "Rift.GG\\Models\\Champion.cs",
+              "ToolTip": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\Models\\Champion.cs",
+              "RelativeToolTip": "Rift.GG\\Models\\Champion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T12:56:33.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "Rift.GG\\Models\\Message.cs",
+              "ToolTip": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\Models\\Message.cs",
+              "RelativeToolTip": "Rift.GG\\Models\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T12:58:03.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyAppContext.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\Data\\MyAppContext.cs",
+              "RelativeDocumentMoniker": "Rift.GG\\Data\\MyAppContext.cs",
+              "ToolTip": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\Data\\MyAppContext.cs",
+              "RelativeToolTip": "Rift.GG\\Data\\MyAppContext.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T13:02:14.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ChampionsController.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\Controllers\\ChampionsController.cs",
+              "RelativeDocumentMoniker": "Rift.GG\\Controllers\\ChampionsController.cs",
+              "ToolTip": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\Controllers\\ChampionsController.cs",
+              "RelativeToolTip": "Rift.GG\\Controllers\\ChampionsController.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAQwF8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T14:54:19.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rift.GG",
+              "DocumentMoniker": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\Rift.GG.csproj",
+              "RelativeDocumentMoniker": "Rift.GG\\Rift.GG.csproj",
+              "ToolTip": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\Rift.GG.csproj",
+              "RelativeToolTip": "Rift.GG\\Rift.GG.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-01T13:12:03.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Rift.GG\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Rift.GG\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T12:56:44.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserMatchesController.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\Controllers\\UserMatchesController.cs",
+              "RelativeDocumentMoniker": "Rift.GG\\Controllers\\UserMatchesController.cs",
+              "ToolTip": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\Controllers\\UserMatchesController.cs",
+              "RelativeToolTip": "Rift.GG\\Controllers\\UserMatchesController.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAA1wGgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T14:56:07.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserStatsController.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\Controllers\\UserStatsController.cs",
+              "RelativeDocumentMoniker": "Rift.GG\\Controllers\\UserStatsController.cs",
+              "ToolTip": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\Controllers\\UserStatsController.cs",
+              "RelativeToolTip": "Rift.GG\\Controllers\\UserStatsController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAQwD0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T14:58:47.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "Rift.GG\\Controllers\\ItemsController.cs",
+              "ToolTip": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "Rift.GG\\Controllers\\ItemsController.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAQwF8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T14:54:43.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MessagesController.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\Controllers\\MessagesController.cs",
+              "RelativeDocumentMoniker": "Rift.GG\\Controllers\\MessagesController.cs",
+              "ToolTip": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\Controllers\\MessagesController.cs",
+              "RelativeToolTip": "Rift.GG\\Controllers\\MessagesController.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAQwGQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T14:55:24.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MatchesController.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\Controllers\\MatchesController.cs",
+              "RelativeDocumentMoniker": "Rift.GG\\Controllers\\MatchesController.cs",
+              "ToolTip": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\Controllers\\MatchesController.cs",
+              "RelativeToolTip": "Rift.GG\\Controllers\\MatchesController.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAQwF8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T14:55:01.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240401145859_UpdateChampionMatchRelationship3.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\Migrations\\20240401145859_UpdateChampionMatchRelationship3.cs",
+              "RelativeDocumentMoniker": "Rift.GG\\Migrations\\20240401145859_UpdateChampionMatchRelationship3.cs",
+              "ToolTip": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\Migrations\\20240401145859_UpdateChampionMatchRelationship3.cs",
+              "RelativeToolTip": "Rift.GG\\Migrations\\20240401145859_UpdateChampionMatchRelationship3.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T14:58:59.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240401142018_UpdateChampionMatchRelationship.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\Migrations\\20240401142018_UpdateChampionMatchRelationship.cs",
+              "RelativeDocumentMoniker": "Rift.GG\\Migrations\\20240401142018_UpdateChampionMatchRelationship.cs",
+              "ToolTip": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\Migrations\\20240401142018_UpdateChampionMatchRelationship.cs",
+              "RelativeToolTip": "Rift.GG\\Migrations\\20240401142018_UpdateChampionMatchRelationship.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T14:20:18.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Rift.GG.csproj",
+              "DocumentMoniker": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\Rift.GG.csproj",
+              "RelativeDocumentMoniker": "Rift.GG\\Rift.GG.csproj",
+              "ToolTip": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\Rift.GG.csproj",
+              "RelativeToolTip": "Rift.GG\\Rift.GG.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-01T14:04:50.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20240401142520_UpdateChampionMatchRelationship2.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\Migrations\\20240401142520_UpdateChampionMatchRelationship2.cs",
+              "RelativeDocumentMoniker": "Rift.GG\\Migrations\\20240401142520_UpdateChampionMatchRelationship2.cs",
+              "ToolTip": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\Migrations\\20240401142520_UpdateChampionMatchRelationship2.cs",
+              "RelativeToolTip": "Rift.GG\\Migrations\\20240401142520_UpdateChampionMatchRelationship2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T14:25:20.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "contact.html",
+              "DocumentMoniker": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\wwwroot\\SiteLocalCp3\\Modules\\Contact\\P20_HTML\\contact.html",
+              "RelativeDocumentMoniker": "Rift.GG\\wwwroot\\SiteLocalCp3\\Modules\\Contact\\P20_HTML\\contact.html",
+              "ToolTip": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\wwwroot\\SiteLocalCp3\\Modules\\Contact\\P20_HTML\\contact.html",
+              "RelativeToolTip": "Rift.GG\\wwwroot\\SiteLocalCp3\\Modules\\Contact\\P20_HTML\\contact.html",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAAB0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-01T14:08:15.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MyAppContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\Migrations\\MyAppContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Rift.GG\\Migrations\\MyAppContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\Migrations\\MyAppContextModelSnapshot.cs",
+              "RelativeToolTip": "Rift.GG\\Migrations\\MyAppContextModelSnapshot.cs",
+              "ViewState": "AQIAAMkAAAAAAAAAAAD4v9YAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T14:09:22.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240401131121_InitialCreate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\Migrations\\20240401131121_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "Rift.GG\\Migrations\\20240401131121_InitialCreate.Designer.cs",
+              "ToolTip": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\Migrations\\20240401131121_InitialCreate.Designer.cs",
+              "RelativeToolTip": "Rift.GG\\Migrations\\20240401131121_InitialCreate.Designer.cs",
+              "ViewState": "AQIAANMAAAAAAAAAAAD4v/MAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T14:08:01.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20240401131121_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\Migrations\\20240401131121_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Rift.GG\\Migrations\\20240401131121_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Andrei\\Desktop\\Rift.GG 2\\Rift.GG\\Rift.GG\\Migrations\\20240401131121_InitialCreate.cs",
+              "RelativeToolTip": "Rift.GG\\Migrations\\20240401131121_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T13:11:21.613Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
